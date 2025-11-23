@@ -1,6 +1,5 @@
 # SimplifAIy
-SimplifAIy is an AI-powered assistant that takes any complex topic and explains it in a simple, clear, beginner-friendly way.  
-Built using **Google Gemini**, **Python**, and **Jupyter Notebook**, this project demonstrates prompt engineering, secure key handling, and interactive AI experimentation.
+SimplifAIy is an AI-powered assistant that takes any complex topic and explains it in a simple, clear, beginner-friendly way. Built using **Google Gemini**, **Python**, and **Jupyter Notebook**, this project demonstrates prompt engineering, secure key handling, and interactive AI experimentation.
 
 
 ## Table of Contents
@@ -199,5 +198,8 @@ Feel free to submit PRs or open issues with ideas for improvements.
 ## License
 
 This project is licensed under the **MIT License**.
+
+
+---
 
 If this project helped you learn or build, consider giving it a ⭐ on GitHub!
