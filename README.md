@@ -5,6 +5,7 @@ Built using **Google Gemini**, **Python**, and **Jupyter Notebook**, this projec
 
 ## Table of Contents
 - [Features](#features)
+- [Preview](#preview)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
 - [Running in VS Code](#running-in-vs-code)
@@ -28,6 +29,15 @@ Built using **Google Gemini**, **Python**, and **Jupyter Notebook**, this projec
 - Loads API keys securely using `.env`  
 - Entire logic runs inside a Jupyter Notebook  
 - Perfect for learning AI/ML basics + LLM integration  
+
+
+## Preview
+
+### Input Prompt
+![SimplifAIy Input](images/input.png)
+
+### AI Output
+![SimplifAIy Output](images/output.png)
 
 
 ## Prerequisites
